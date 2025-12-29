@@ -1,0 +1,101 @@
+C:\Users\nekos\source\repos\ProyectoENE\ProyectoENE\bin\Debug\net8.0-windows\ProyectoENE.exe
+C:\Users\nekos\source\repos\ProyectoENE\ProyectoENE\bin\Debug\net8.0-windows\ProyectoENE.deps.json
+C:\Users\nekos\source\repos\ProyectoENE\ProyectoENE\bin\Debug\net8.0-windows\ProyectoENE.runtimeconfig.json
+C:\Users\nekos\source\repos\ProyectoENE\ProyectoENE\bin\Debug\net8.0-windows\ProyectoENE.dll
+C:\Users\nekos\source\repos\ProyectoENE\ProyectoENE\bin\Debug\net8.0-windows\ProyectoENE.pdb
+C:\Users\nekos\source\repos\ProyectoENE\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.Form1.resources
+C:\Users\nekos\source\repos\ProyectoENE\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.csproj.GenerateResource.cache
+C:\Users\nekos\source\repos\ProyectoENE\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nekos\source\repos\ProyectoENE\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.AssemblyInfoInputs.cache
+C:\Users\nekos\source\repos\ProyectoENE\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.AssemblyInfo.cs
+C:\Users\nekos\source\repos\ProyectoENE\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.csproj.CoreCompileInputs.cache
+C:\Users\nekos\source\repos\ProyectoENE\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.dll
+C:\Users\nekos\source\repos\ProyectoENE\ProyectoENE\obj\Debug\net8.0-windows\refint\ProyectoENE.dll
+C:\Users\nekos\source\repos\ProyectoENE\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.pdb
+C:\Users\nekos\source\repos\ProyectoENE\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.genruntimeconfig.cache
+C:\Users\nekos\source\repos\ProyectoENE\ProyectoENE\obj\Debug\net8.0-windows\ref\ProyectoENE.dll
+C:\Users\nekos\source\repos\ProyectoENE\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.Login.resources
+C:\Users\nekos\source\repos\ProyectoENE\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.Menu.resources
+C:\Users\nekos\source\repos\ProyectoENE\ProyectoENE\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\nekos\source\repos\ProyectoENE\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.csproj.AssemblyReference.cache
+C:\Users\nekos\source\repos\ProyectoENE\ProyectoENE\obj\Debug\net8.0-windows\Proyecto.E3FAD5C6.Up2Date
+C:\Users\nekos\source\repos\ProyectoENE\ProyectoENE\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nekos\source\repos\ProyectoENE\ProyectoENE\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nekos\source\repos\ProyectoENE\ProyectoENE\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\Victor\Downloads\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\ProyectoENE.exe
+C:\Users\Victor\Downloads\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\ProyectoENE.deps.json
+C:\Users\Victor\Downloads\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\ProyectoENE.runtimeconfig.json
+C:\Users\Victor\Downloads\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\ProyectoENE.dll
+C:\Users\Victor\Downloads\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\ProyectoENE.pdb
+C:\Users\Victor\Downloads\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\Victor\Downloads\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Victor\Downloads\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Victor\Downloads\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\Victor\Downloads\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.csproj.AssemblyReference.cache
+C:\Users\Victor\Downloads\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.Form1.resources
+C:\Users\Victor\Downloads\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.Login.resources
+C:\Users\Victor\Downloads\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.Menu.resources
+C:\Users\Victor\Downloads\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.csproj.GenerateResource.cache
+C:\Users\Victor\Downloads\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Downloads\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.AssemblyInfoInputs.cache
+C:\Users\Victor\Downloads\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.AssemblyInfo.cs
+C:\Users\Victor\Downloads\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Downloads\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\Proyecto.E3FAD5C6.Up2Date
+C:\Users\Victor\Downloads\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.dll
+C:\Users\Victor\Downloads\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\refint\ProyectoENE.dll
+C:\Users\Victor\Downloads\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.pdb
+C:\Users\Victor\Downloads\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.genruntimeconfig.cache
+C:\Users\Victor\Downloads\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ref\ProyectoENE.dll
+C:\Users\Victor\Downloads\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.UI.listado.resources
+C:\Users\nekos\Desktop\Proyecto UltimaNota II\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\ProyectoENE.exe
+C:\Users\nekos\Desktop\Proyecto UltimaNota II\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\ProyectoENE.deps.json
+C:\Users\nekos\Desktop\Proyecto UltimaNota II\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\ProyectoENE.runtimeconfig.json
+C:\Users\nekos\Desktop\Proyecto UltimaNota II\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\ProyectoENE.dll
+C:\Users\nekos\Desktop\Proyecto UltimaNota II\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\ProyectoENE.pdb
+C:\Users\nekos\Desktop\Proyecto UltimaNota II\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\nekos\Desktop\Proyecto UltimaNota II\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nekos\Desktop\Proyecto UltimaNota II\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nekos\Desktop\Proyecto UltimaNota II\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\nekos\Desktop\Proyecto UltimaNota II\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.csproj.AssemblyReference.cache
+C:\Users\nekos\Desktop\Proyecto UltimaNota II\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.Form1.resources
+C:\Users\nekos\Desktop\Proyecto UltimaNota II\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.Login.resources
+C:\Users\nekos\Desktop\Proyecto UltimaNota II\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.Menu.resources
+C:\Users\nekos\Desktop\Proyecto UltimaNota II\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.UI.EditarUsuario.resources
+C:\Users\nekos\Desktop\Proyecto UltimaNota II\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.UI.listado.resources
+C:\Users\nekos\Desktop\Proyecto UltimaNota II\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.csproj.GenerateResource.cache
+C:\Users\nekos\Desktop\Proyecto UltimaNota II\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nekos\Desktop\Proyecto UltimaNota II\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.AssemblyInfoInputs.cache
+C:\Users\nekos\Desktop\Proyecto UltimaNota II\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.AssemblyInfo.cs
+C:\Users\nekos\Desktop\Proyecto UltimaNota II\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.csproj.CoreCompileInputs.cache
+C:\Users\nekos\Desktop\Proyecto UltimaNota II\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\Proyecto.E3FAD5C6.Up2Date
+C:\Users\nekos\Desktop\Proyecto UltimaNota II\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.dll
+C:\Users\nekos\Desktop\Proyecto UltimaNota II\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\refint\ProyectoENE.dll
+C:\Users\nekos\Desktop\Proyecto UltimaNota II\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.pdb
+C:\Users\nekos\Desktop\Proyecto UltimaNota II\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.genruntimeconfig.cache
+C:\Users\nekos\Desktop\Proyecto UltimaNota II\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ref\ProyectoENE.dll
+C:\Users\okeds\OneDrive\Escritorio\Proyecto UltimaNota III\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\ProyectoENE.exe
+C:\Users\okeds\OneDrive\Escritorio\Proyecto UltimaNota III\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\ProyectoENE.deps.json
+C:\Users\okeds\OneDrive\Escritorio\Proyecto UltimaNota III\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\ProyectoENE.runtimeconfig.json
+C:\Users\okeds\OneDrive\Escritorio\Proyecto UltimaNota III\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\ProyectoENE.dll
+C:\Users\okeds\OneDrive\Escritorio\Proyecto UltimaNota III\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\ProyectoENE.pdb
+C:\Users\okeds\OneDrive\Escritorio\Proyecto UltimaNota III\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\okeds\OneDrive\Escritorio\Proyecto UltimaNota III\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\okeds\OneDrive\Escritorio\Proyecto UltimaNota III\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\okeds\OneDrive\Escritorio\Proyecto UltimaNota III\Proyecto UltimaNota\ProyectoENE\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\okeds\OneDrive\Escritorio\Proyecto UltimaNota III\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.csproj.AssemblyReference.cache
+C:\Users\okeds\OneDrive\Escritorio\Proyecto UltimaNota III\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.Form1.resources
+C:\Users\okeds\OneDrive\Escritorio\Proyecto UltimaNota III\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.Login.resources
+C:\Users\okeds\OneDrive\Escritorio\Proyecto UltimaNota III\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.Menu.resources
+C:\Users\okeds\OneDrive\Escritorio\Proyecto UltimaNota III\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.UI.EditarUsuario.resources
+C:\Users\okeds\OneDrive\Escritorio\Proyecto UltimaNota III\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.UI.listado.resources
+C:\Users\okeds\OneDrive\Escritorio\Proyecto UltimaNota III\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.csproj.GenerateResource.cache
+C:\Users\okeds\OneDrive\Escritorio\Proyecto UltimaNota III\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okeds\OneDrive\Escritorio\Proyecto UltimaNota III\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.AssemblyInfoInputs.cache
+C:\Users\okeds\OneDrive\Escritorio\Proyecto UltimaNota III\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.AssemblyInfo.cs
+C:\Users\okeds\OneDrive\Escritorio\Proyecto UltimaNota III\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.csproj.CoreCompileInputs.cache
+C:\Users\okeds\OneDrive\Escritorio\Proyecto UltimaNota III\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\Proyecto.E3FAD5C6.Up2Date
+C:\Users\okeds\OneDrive\Escritorio\Proyecto UltimaNota III\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.dll
+C:\Users\okeds\OneDrive\Escritorio\Proyecto UltimaNota III\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\refint\ProyectoENE.dll
+C:\Users\okeds\OneDrive\Escritorio\Proyecto UltimaNota III\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.pdb
+C:\Users\okeds\OneDrive\Escritorio\Proyecto UltimaNota III\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ProyectoENE.genruntimeconfig.cache
+C:\Users\okeds\OneDrive\Escritorio\Proyecto UltimaNota III\Proyecto UltimaNota\ProyectoENE\obj\Debug\net8.0-windows\ref\ProyectoENE.dll
